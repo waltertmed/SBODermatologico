@@ -1,0 +1,2 @@
+(deftemplate Trabajo
+	(field Area))

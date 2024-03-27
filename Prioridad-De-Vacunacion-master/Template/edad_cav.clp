@@ -1,0 +1,2 @@
+(deftemplate Edad
+	(multifield Clasificacion))
