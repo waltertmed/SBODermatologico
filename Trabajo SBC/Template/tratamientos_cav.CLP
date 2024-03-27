@@ -1,0 +1,2 @@
+(deftemplate Tratamientos
+	(multifield Tratamiento))

@@ -1,0 +1,2 @@
+(deftemplate Diagnostico
+	(multifield Dx))

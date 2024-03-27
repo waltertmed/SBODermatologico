@@ -1,0 +1,2 @@
+(deftemplate Causas
+	(multifield Causa))
