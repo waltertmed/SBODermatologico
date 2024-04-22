@@ -1,0 +1,2 @@
+(deftemplate Animal
+	(field Especie))
