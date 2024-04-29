@@ -1,2 +1,3 @@
 (deftemplate Signo
-	(multifield Descripcion))
+	(multifield Descripcion1)
+	(multifield Descripcion2))
